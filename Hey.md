@@ -10,6 +10,6 @@
 
 "Button": "JOIN",
 
-"Show": "on"
+"Show": "off"
 
 }
