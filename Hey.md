@@ -6,7 +6,7 @@
 
 "Link": "https://t.me/Modify_BackUp",
 
-"Color": "#40d146",
+"Color": "#4DD0E1",
 
 "Button": "پیوستن",
 
