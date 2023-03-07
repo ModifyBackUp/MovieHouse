@@ -10,6 +10,6 @@
 
 "Button": "پیوستن",
 
-"Show": "off"
+"Show": "on"
 
 }
